@@ -1,0 +1,75 @@
+Processing file: cleaned_the_verge.json
+Processing file: ksl_articles_9-27.json
+Processing file: cleaned_cbs.json
+Processing file: ksl_articles_9-26.json
+Processing file: cleaned_cnbc.json
+Processing file: cleaned_ksl_articles_9-24.json
+Processing file: cleaned_abc.json
+collected 452 articles
+vectorization took 0.161 seconds
+number of documents: 452
+
+Component 1 Top Words:
+Top Positive Words:
+ai: 0.3429
+company: 0.1666
+meta: 0.1395
+apple: 0.1310
+openai: 0.1189
+google: 0.1172
+amazon: 0.1084
+microsoft: 0.0949
+people: 0.0936
+just: 0.0935
+Top Negative Words:
+espresso: 0.0032
+ounce: 0.0053
+earbuds: 0.0054
+cup: 0.0054
+ultra: 0.0059
+simple: 0.0061
+rich: 0.0061
+monitor: 0.0063
+wireless: 0.0063
+portable: 0.0064
+
+Component 2 Top Words:
+Top Positive Words:
+ai: 0.4440
+apple: 0.1838
+meta: 0.1551
+google: 0.1378
+iphone: 0.1169
+video: 0.1086
+microsoft: 0.1012
+feature: 0.0931
+features: 0.0901
+copilot: 0.0889
+Top Negative Words:
+trump: -0.2186
+harris: -0.1853
+court: -0.1156
+president: -0.1090
+cbs: -0.1036
+election: -0.1017
+news: -0.0979
+hurricane: -0.0920
+state: -0.0873
+israel: -0.0822
+
+Initialization complete
+Iteration 0, inertia 4.997287631031201.
+Iteration 1, inertia 3.4149792564384893.
+Iteration 2, inertia 3.264986579564695.
+Initialization complete
+Iteration 0, inertia 4.232484262349725.
+Iteration 1, inertia 3.3297140503372686.
+Iteration 2, inertia 3.206396008273561.
+Initialization complete
+Iteration 0, inertia 4.08572890152711.
+Iteration 1, inertia 3.4533798221893193.
+Iteration 2, inertia 3.232867509727416.
+Initialization complete
+Iteration 0, inertia 4.61776620960281.
+Iteration 1, inertia 3.2176534529834413.
+Iteration 2, inertia 3.16050603014733.
